@@ -12,14 +12,14 @@ A list of tools available online to protect
 
 *Cookie Managers*
 * [Self-Destructing Cookies] (https://addons.mozilla.org/en-us/firefox/addon/self-destructing-cookies/) - Get's rid of a site's cookies and LocalStorage as soon as you close its tabs.
-* 
-* *Password Managers*
+
+*Password Managers*
 * [LastPass] (https://lastpass.com/) - Popular password manager with mutli-device sync (requires upload of your encrypted credential data) and optional enterpise administration functionality. Supports MFA and filling of web forms.
 
 *Misc*
 * [Random Agent Spoofer] (https://github.com/dillbyrne/random-agent-spoofer/) - Very cool addon that rotates your devices user agent randomly to make it harder for services to profile you based on your browser/device fingerprint.
 * [HTTPS Everywhere] (https://www.eff.org/https-everywhere/) - An addon that enforces the HTTPS connection to be made when visiting sites that are not optimially configured.
-* 
+
 ## Client-side Applications
-* *Password Managers*
+*Password Managers*
 * [KeePass] (http://keepass.info/) - Free, open-source password safe that uses a local, encrypted database. Can be run from removable media without installation.
