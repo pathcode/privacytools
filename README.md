@@ -1,12 +1,11 @@
+++++++ Feel free to send a pull request++++++
 # Privacy Tools
-A list of tools available online to protect 
+A list of tools available to protect your privacy online.
 
 ## Browser Extensions
 *Ad Blockers and Tracker Blockers*
 * [uBlock Origin](https://github.com/gorhill/uBlock) - Open Source ad-blocker/tracker-blocker. Highly customizable. Based on open source filter lists.
-* [Ghostery](https://www.ghostery.com/) - One of the most popular ad-blocker/tracker blockers. Pubicly stated that their business model is to whitelist paying websites.
-* [RedMorph Browser Controller](https://redmorph.com/) - Tracker blocker/ad-blocker that uses open source filter lists in combination with thier own filter lists. Also includes proxy and VPN services as well as a great visualization tool similar to Mozilla Lightbeam.
-* [AdBlock Plus](https://adblockplus.org/) - Another extremley popular adblocker. Only blocks ads, was known to whitelist which is why the source was forked and made into uBlock Origin.
+* [Redmorph for Chrome](https://redmorph.com/) - One part of Redmorphs larger privacy application ecosystem. The Chrome Extension allows for very extensive tracker blocking. They've identified problems with the open source lists that most adblockers are using and have opted to improve upon those lists to update in realtime against the changing tracker ecosystem.
 * [Privacy Badger] (https://www.eff.org/privacybadger/) - An adblocker and tracker blocker from the [Electronic Frontier Foundation (EFF)] (https://www.eff.org). It learns what to block as you browse the web.
 * [Disconnect] (https://disconnect.me/) - A relativley new tracking blocker made by an ex googler.
 
@@ -23,3 +22,7 @@ A list of tools available online to protect
 ## Client-side Applications
 *Password Managers*
 * [KeePass] (http://keepass.info/) - Free, open-source password safe that uses a local, encrypted database. Can be run from removable media without installation.
+
+## Android Apps
+* [Redmorph for Android](https://play.google.com/store/apps/details?id=com.redmorph.vpn.device.controller&hl=en) - Redmorph has their same technology running on Android.
+* [Orbot] (https://play.google.com/store/apps/details?id=org.torproject.android&hl=en) - Run Tor on your Android device. Note: Unless you enable the VPN feature, you are only on Tor when you browse the web. Other applications still run on the normal network.
